@@ -1,0 +1,8 @@
+pip install tensorflow-gpu==1.14.0 keras==2.2.5
+pip install jupyter notebook
+pip install numpy scipy scikit-image Pillow cython h5py Image opencv-python
+pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+
+CUDA 1.10
+CUDNN 7.4.2
+Python 3.7.8
