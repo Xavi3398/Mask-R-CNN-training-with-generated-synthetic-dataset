@@ -1,4 +1,4 @@
-# Training of Mask R-CNN with custom synthetic dataset
+# Training of Mask R-CNN with a generated synthetic dataset
 This repository contains all needed code to train Mask R-CNN with a custom generated dataset. To see the used implementation of Mask R-CNN, please, visit https://github.com/matterport/Mask_RCNN.
 
 All code to load the dataset, the configuration and the training can be found in the [xavi.py](xavi.py) file. Note that some changes have been made to the files of the original project ([utils.py](utils.py), [visualize.py](visualize.py) and [model.py](model.py)) in order to add some features and update some others.
